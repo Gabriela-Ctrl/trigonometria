@@ -140,3 +140,12 @@ def resource_path(relative_path):
             resultado_tangente.grid(row=0, column=1, padx=10, pady=5, sticky='w')
 
             janela.mainloop()
+
+
+
+
+
+
+
+
+            
