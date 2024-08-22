@@ -138,3 +138,5 @@ def resource_path(relative_path):
             label_tangente.grid(row=0, column=0, padx=10, pady=5, sticky='e')
             resultado_tangente = tk.LABEL(frame_resultados, text="", font=('Arial', 12, 'bold'), fg='red', bg="f0f0f0")
             resultado_tangente.grid(row=0, column=1, padx=10, pady=5, sticky='w')
+
+            janela.mainloop()
